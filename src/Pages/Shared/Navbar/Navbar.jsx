@@ -1,12 +1,19 @@
 import { Link } from 'react-router-dom';
 import logoImg from '../../../assets/banner/bbc_news_14062.png';
+import { useContext } from 'react';
+import { AuthContext } from '../../../providers/AuthProviders';
 const Navbar = () => {
-
+  const {user, logOut} =useContext(AuthContext);
+  const handleLogOut =() =>{
+  logOut()
+  .then(() =>{})
+  .catch(error => console.log(error))
+  }
 const navOptions = <>
   <li><Link to="/">Home</Link></li>
   <li><Link to="articles">All Articles</Link></li>
-   
-      <li><Link to="/">About</Link></li>
+
+ 
 </>
 
     return (
@@ -29,7 +36,23 @@ const navOptions = <>
     </ul>
   </div>
   <div className="navbar-end">
-    <a className="btn">Button</a>
+  {
+            user ? <>
+         
+            <div className="avatar">
+  <div className="w-12 h-12 m-2 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
+    <img src={user.photoURL} />
+  </div>
+  <span>{user?.displayName}</span>
+</div>
+
+            
+           
+            <button onClick={handleLogOut} className="btn btn-ghost">LogOut</button>
+            </>:<>
+            <li><Link to="login">LogIn</Link></li>
+            </>
+           }
   </div>
 </div>
         </>
