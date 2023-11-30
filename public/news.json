@@ -1,0 +1,226 @@
+ [
+      {
+        "_id": 1,
+        "image": "https://i.ibb.co/8bdH0L8/different-articles-in-newspaper-design-vector-19732121.jpg",
+        "title": "Scientists Discover New Species of Bioluminescent Fish in Pacific Ocean",
+        "description": "Researchers have identified a previously unknown species of deep-sea fish emitting dazzling bioluminescent displays shedding light on the diversity of marine life.",
+      "publisher": "Nipon Roy",
+       "price": "$199.99",
+        "card_color": "#0052FF26",
+        "publisher_background_color": "#0052FF33",
+        "text_color": "#00ffff"
+      },
+      {
+        "_id": 2,
+        "image": "https://i.ibb.co/N7z43K2/download.jpg",
+        
+        "publisher": "John cina",
+        "title": "Breakthrough in Cancer Treatment: Nanoparticle Therapy Shows Promising Results in Trials",
+        "description": "A novel nanoparticle-based therapy has exhibited remarkable efficacy in targeting and shrinking tumors in early clinical trials, offering hope for a groundbreaking cancer treatment.",
+        "price": "$49.99",
+        "card_color": "#FF444A26",
+        "publisher_background_color": "#FF444A33",
+        "text_color": "#f6546a"
+      },
+      {
+        "_id": 3,
+        "image": "https://i.ibb.co/vVRWF6S/gettyimages-1461406438-612x612.jpg",
+ 
+        "publisher": "Motin Mia",
+        "title": "Space Exploration: Astronomers Detect Signals Suggesting Possible Alien Life",
+        "description": "Signals received from a distant exoplanet have sparked excitement among astronomers, hinting at the potential presence of extraterrestrial life forms.",
+        "price": "$129.99",
+        "card_color": "#79C23F26",
+        "publisher_background_color": "#79C23F33",
+        "text_color": "#4cbb17"
+      },
+      {
+        "_id": 4,
+        "image": "https://i.ibb.co/WgXrD1j/istockphoto-1407890983-612x612.jpg",
+        "publisher": "Salman Khan",
+        "title": "Renewable Energy Milestone: Wind Power Surpasses Coal in Electricity Generation",
+      "description": "Wind energy has surpassed coal as a primary source of electricity, marking a significant shift toward sustainable and renewable power.",
+        "price": "$299.99",
+        "card_color": "#FF444A26",
+        "publisher_background_color": "#FF444A33",
+        "text_color": "#ff7373"
+      },
+      {
+        "_id": 5,
+        "image": "https://i.ibb.co/rZr6JJ3/screenshot.webp",
+        "publisher": "Samad Khan",
+        "title": "AI Advancements Revolutionize Healthcare Diagnostics and Treatment",
+        "description": "Artificial intelligence breakthroughs in healthcare have led to more accurate diagnostics and personalized treatment plans, promising a transformative era in patient care.",
+        "price": "$199.99",
+        "card_color": "#0052FF26",
+        "publisher_background_color": "#0052FF33",
+        "text_color": "#00ffff"
+      },
+      {
+        "_id": 6,
+        "image": "https://i.ibb.co/3mS54Mr/seven-types-of-fake-news.webp",
+        "publisher": "Maruf Hsan",
+        "title": "Revolutionizing Transportation: Flying Cars Set to Enter Commercial Market",
+      "description": "The long-awaited era of flying cars inches closer as companies gear up to introduce commercial models, potentially transforming urban transportation.",
+        "price": "$49.99",
+        "card_color": "#FF444A26",
+        "publisher_background_color": "#FF444A33",
+        "text_color": "#f6546a"
+      },
+      {
+        "_id": 7,
+        "image": "https://i.ibb.co/0QPDJ9X/Three-different-types-of-news-media.jpg",
+        "publisher": " Siyam Boss",
+        "title": "Climate Crisis Mitigation: Innovative Ocean Cleanup Technology Shows Promising Results",
+        "description": "Cutting-edge technology designed to clean up oceanic plastic waste has demonstrated encouraging results, offering a glimmer of hope in the battle against marine pollution.",  
+        "price": "$49.99",
+        "card_color": "#FF444A26",
+        "publisher_background_color": "#FF444A33",
+        "text_color": "#f6546a"
+      },
+      {
+        "_id": 8,
+        "image": "https://i.ibb.co/w6GZdJT/various-types-of-news-media-slide01.jpg",
+        "publisher": "Maruf Siyam",
+        "title": "Breakthrough in Artificial Intelligence Enables Machines to Learn Like Humans",
+        "description": "Researchers have developed AI models capable of learning and adapting in ways that mimic human cognition, paving the way for more intuitive and versatile machines.",
+        "price": "$49.99",
+        "card_color": "#FF444A26",
+        "publisher_background_color": "#FF444A33",
+        "text_color": "#f6546a"
+      },
+      {
+        "_id": 9,
+        "image": "https://i.ibb.co/ysj104j/business.png",
+        "publisher": "Atik Hsan",
+        "title": "Mars Colonization Plans Accelerate: SpaceX Unveils Ambitious Timeline",
+        "description": "SpaceX CEO Elon Musk announces an accelerated timeline for Mars colonization, outlining plans for manned missions and the establishment of a sustainable human presence on the red planet.",
+        "price": "$49.99",
+        "card_color": "#FF444A26",
+        "publisher_background_color": "#FF444A33",
+        "text_color": "#f6546a"
+      },
+      {
+        "_id": 10,
+        "image": "https://i.ibb.co/kMtFCGr/citynews.jpg",
+        "publisher": "Akash Dash",
+        "title": "Robotics Revolutionize Manufacturing: Autonomous Systems Boost Efficiency",
+      "description": "Advancements in robotics and automation have revolutionized manufacturing processes, enhancing productivity and precision in various industries.",
+        "price": "$49.99",
+        "card_color": "#FF444A26",
+        "publisher_background_color": "#FF444A33",
+        "text_color": "#f6546a"
+      },
+      {
+        "_id": 11,
+        "image": "https://i.ibb.co/0tQBgJY/education.png",
+        "publisher": "Folk Disoja",
+        "title": "Breakthrough in Alzheimer's Research: New Drug Shows Promise in Slowing Disease Progression",
+        "description": "A newly developed drug exhibits potential in slowing the progression of Alzheimer's disease, offering a glimmer of hope for millions affected by this debilitating condition.",
+        "price": "$49.99",
+        "card_color": "#FF444A26",
+        "publisher_background_color": "#FF444A33",
+        "text_color": "#f6546a"
+      },
+      {
+        "_id": 12,
+        "image": "https://i.ibb.co/ZYWhBrJ/entertainment.png",
+        "publisher": "Sourav Desh",
+        "title": "Blockchain Technology Disrupts Finance: Adoption Soars Across Industries",
+        "description": "The widespread adoption of blockchain technology is reshaping financial systems and beyond, with industries embracing its decentralized and secure nature.",
+        "price": "$49.99",
+        "card_color": "#FF444A26",
+        "publisher_background_color": "#FF444A33",
+        "text_color": "#f6546a"
+      },
+      {
+        "_id": 13,
+        "image": "https://i.ibb.co/7y9Rhg6/images-1.pngg",
+        "publisher": "Mick Lien",
+        "title": "AI-Powered Virtual Assistants Redefine Customer Service Standards",
+        "description": "AI-driven virtual assistants are transforming customer service experiences, offering personalized and efficient interactions across various sectors.",
+        "price": "$49.99",
+        "card_color": "#FF444A26",
+        "publisher_background_color": "#FF444A33",
+        "text_color": "#f6546a"
+      },
+      {
+        "_id": 14,
+        "image": "https://i.ibb.co/S7qRXgK/images.jpg",
+        "publisher": "Maruf Hasan",
+        "title": "Breakthrough in Quantum Computing: Quantum Supremacy Achieved in Complex Calculations",
+        "description": "Scientists achieve a significant milestone in quantum computing, demonstrating superiority over classical computers in solving complex computational problems.",
+        "price": "$49.99",
+        "card_color": "#FF444A26",
+        "publisher_background_color": "#FF444A33",
+        "text_color": "#f6546a"
+      },
+      {
+        "_id": 15,
+        "image": "https://i.ibb.co/WBygC9K/images.png",
+        "publisher": "Imran Hasmi",
+        "title": "Advancements in 3D Printing Revolutionize Healthcare Prosthetics",
+        "description": "Innovations in 3D printing technology are revolutionizing the production of healthcare prosthetics, offering cost-effective and customized solutions for patients.",
+        "price": "$49.99",
+        "card_color": "#FF444A26",
+        "publisher_background_color": "#FF444A33",
+        "text_color": "#f6546a"
+      },
+      {
+        "_id": 16,
+        "image": "https://i.ibb.co/2Kpx8fX/pngtree-h5-wedding-invitation-vector-background-material-picture-image-757706.png",
+        "publisher": "Raihan Dev",
+        "title": "Gene Editing Breakthrough: CRISPR Technology Shows Promise in Curing Genetic Diseases",
+        "description": "CRISPR-based gene editing holds potential in curing a range of genetic diseases, ushering in a new era of precision medicine and therapies.",
+        "price": "$49.99",
+        "card_color": "#FF444A26",
+        "publisher_background_color": "#FF444A33",
+        "text_color": "#f6546a"
+      },
+      {
+        "_id": 17,
+        "image": "https://i.ibb.co/8c5Xx5J/sports.png",
+        "publisher": "Maruf Powri",
+        "title": "Education Revolution: Personalized Learning Platforms Reshape Classroom Dynamics",
+        "description": "Personalized learning platforms leveraging AI are reshaping traditional classroom dynamics, catering to individual student needs and enhancing educational outcomes.",
+        "price": "$49.99",
+        "card_color": "#FF444A26",
+        "publisher_background_color": "#FF444A33",
+        "text_color": "#f6546a"
+      },
+      {
+        "_id": 18,
+        "image": "https://i.ibb.co/7Cgqm7j/websseris.jpg",
+        "title": "Good education",
+        "publisher": "Misla Powri",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": "$49.99",
+        "card_color": "#FF444A26",
+        "publisher_background_color": "#FF444A33",
+        "text_color": "#f6546a"
+      },
+      {
+        "_id": 19,
+        "image": "https://i.ibb.co/w6GZdJT/various-types-of-news-media-slide01.jpg",
+        "publisher": "Roy chan",
+        "title": "Artificial Photosynthesis Breakthrough: Turning Carbon Dioxide into Renewable Fuel",
+        "description": "A breakthrough in artificial photosynthesis technology holds promise in converting carbon dioxide into renewable fuels, offering a sustainable solution to combat climate change.",
+        "price": "$49.99",
+        "card_color": "#FF444A26",
+        "publisher_background_color": "#FF444A33",
+        "text_color": "#f6546a"
+      },
+      {
+        "_id": 20,
+        "image": "https://i.ibb.co/3mS54Mr/seven-types-of-fake-news.webp",
+        "publisher": "Lila Marufa",
+        "title": "Space Tourism Takes Flight: Commercial Space Travel Opens to Public",
+        "description": "Commercial space travel becomes a reality as companies offer civilians the opportunity to experience space exploration, marking a new chapter in tourism.",
+        "price": "$49.99",
+        "card_color": "#FF444A26",
+        "publisher_background_color": "#FF444A33",
+        "text_color": "#f6546a"
+      }
+    ]
+  
+  
