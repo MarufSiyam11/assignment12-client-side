@@ -1,6 +1,5 @@
  [
       {
-        "_id": 1,
         "image": "https://i.ibb.co/8bdH0L8/different-articles-in-newspaper-design-vector-19732121.jpg",
         "title": "Scientists Discover New Species of Bioluminescent Fish in Pacific Ocean",
         "description": "Researchers have identified a previously unknown species of deep-sea fish emitting dazzling bioluminescent displays shedding light on the diversity of marine life.",
@@ -11,7 +10,6 @@
         "text_color": "#00ffff"
       },
       {
-        "_id": 2,
         "image": "https://i.ibb.co/N7z43K2/download.jpg",
         
         "publisher": "John cina",
@@ -23,7 +21,6 @@
         "text_color": "#f6546a"
       },
       {
-        "_id": 3,
         "image": "https://i.ibb.co/vVRWF6S/gettyimages-1461406438-612x612.jpg",
  
         "publisher": "Motin Mia",
@@ -35,7 +32,6 @@
         "text_color": "#4cbb17"
       },
       {
-        "_id": 4,
         "image": "https://i.ibb.co/WgXrD1j/istockphoto-1407890983-612x612.jpg",
         "publisher": "Salman Khan",
         "title": "Renewable Energy Milestone: Wind Power Surpasses Coal in Electricity Generation",
@@ -46,7 +42,6 @@
         "text_color": "#ff7373"
       },
       {
-        "_id": 5,
         "image": "https://i.ibb.co/rZr6JJ3/screenshot.webp",
         "publisher": "Samad Khan",
         "title": "AI Advancements Revolutionize Healthcare Diagnostics and Treatment",
@@ -57,7 +52,6 @@
         "text_color": "#00ffff"
       },
       {
-        "_id": 6,
         "image": "https://i.ibb.co/3mS54Mr/seven-types-of-fake-news.webp",
         "publisher": "Maruf Hsan",
         "title": "Revolutionizing Transportation: Flying Cars Set to Enter Commercial Market",
@@ -68,7 +62,6 @@
         "text_color": "#f6546a"
       },
       {
-        "_id": 7,
         "image": "https://i.ibb.co/0QPDJ9X/Three-different-types-of-news-media.jpg",
         "publisher": " Siyam Boss",
         "title": "Climate Crisis Mitigation: Innovative Ocean Cleanup Technology Shows Promising Results",
@@ -79,7 +72,6 @@
         "text_color": "#f6546a"
       },
       {
-        "_id": 8,
         "image": "https://i.ibb.co/w6GZdJT/various-types-of-news-media-slide01.jpg",
         "publisher": "Maruf Siyam",
         "title": "Breakthrough in Artificial Intelligence Enables Machines to Learn Like Humans",
@@ -90,7 +82,6 @@
         "text_color": "#f6546a"
       },
       {
-        "_id": 9,
         "image": "https://i.ibb.co/ysj104j/business.png",
         "publisher": "Atik Hsan",
         "title": "Mars Colonization Plans Accelerate: SpaceX Unveils Ambitious Timeline",
@@ -101,7 +92,6 @@
         "text_color": "#f6546a"
       },
       {
-        "_id": 10,
         "image": "https://i.ibb.co/kMtFCGr/citynews.jpg",
         "publisher": "Akash Dash",
         "title": "Robotics Revolutionize Manufacturing: Autonomous Systems Boost Efficiency",
@@ -112,7 +102,6 @@
         "text_color": "#f6546a"
       },
       {
-        "_id": 11,
         "image": "https://i.ibb.co/0tQBgJY/education.png",
         "publisher": "Folk Disoja",
         "title": "Breakthrough in Alzheimer's Research: New Drug Shows Promise in Slowing Disease Progression",
@@ -123,7 +112,6 @@
         "text_color": "#f6546a"
       },
       {
-        "_id": 12,
         "image": "https://i.ibb.co/ZYWhBrJ/entertainment.png",
         "publisher": "Sourav Desh",
         "title": "Blockchain Technology Disrupts Finance: Adoption Soars Across Industries",
@@ -134,7 +122,6 @@
         "text_color": "#f6546a"
       },
       {
-        "_id": 13,
         "image": "https://i.ibb.co/7y9Rhg6/images-1.pngg",
         "publisher": "Mick Lien",
         "title": "AI-Powered Virtual Assistants Redefine Customer Service Standards",
@@ -145,7 +132,6 @@
         "text_color": "#f6546a"
       },
       {
-        "_id": 14,
         "image": "https://i.ibb.co/S7qRXgK/images.jpg",
         "publisher": "Maruf Hasan",
         "title": "Breakthrough in Quantum Computing: Quantum Supremacy Achieved in Complex Calculations",
@@ -156,7 +142,6 @@
         "text_color": "#f6546a"
       },
       {
-        "_id": 15,
         "image": "https://i.ibb.co/WBygC9K/images.png",
         "publisher": "Imran Hasmi",
         "title": "Advancements in 3D Printing Revolutionize Healthcare Prosthetics",
@@ -167,7 +152,6 @@
         "text_color": "#f6546a"
       },
       {
-        "_id": 16,
         "image": "https://i.ibb.co/2Kpx8fX/pngtree-h5-wedding-invitation-vector-background-material-picture-image-757706.png",
         "publisher": "Raihan Dev",
         "title": "Gene Editing Breakthrough: CRISPR Technology Shows Promise in Curing Genetic Diseases",
@@ -178,7 +162,6 @@
         "text_color": "#f6546a"
       },
       {
-        "_id": 17,
         "image": "https://i.ibb.co/8c5Xx5J/sports.png",
         "publisher": "Maruf Powri",
         "title": "Education Revolution: Personalized Learning Platforms Reshape Classroom Dynamics",
@@ -189,7 +172,6 @@
         "text_color": "#f6546a"
       },
       {
-        "_id": 18,
         "image": "https://i.ibb.co/7Cgqm7j/websseris.jpg",
         "title": "Good education",
         "publisher": "Misla Powri",
@@ -200,7 +182,6 @@
         "text_color": "#f6546a"
       },
       {
-        "_id": 19,
         "image": "https://i.ibb.co/w6GZdJT/various-types-of-news-media-slide01.jpg",
         "publisher": "Roy chan",
         "title": "Artificial Photosynthesis Breakthrough: Turning Carbon Dioxide into Renewable Fuel",
@@ -211,7 +192,6 @@
         "text_color": "#f6546a"
       },
       {
-        "_id": 20,
         "image": "https://i.ibb.co/3mS54Mr/seven-types-of-fake-news.webp",
         "publisher": "Lila Marufa",
         "title": "Space Tourism Takes Flight: Commercial Space Travel Opens to Public",
